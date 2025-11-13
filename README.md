@@ -15,7 +15,6 @@ Aplicativo Flutter para exibição de telemetria em tempo real com integração 
 - 🗺️ **Mapa interativo** com marcador da posição atual
 - 🔍 **Busca de locais** (ex: "Hotéis", "Postos", "Hospitais") com sugestões em tempo real
 - 🔤 **Suporte total a acentuação e caracteres especiais** na busca (ex: "Hotéis em São Paulo")
-- 📍 Ao tocar no marcador, exibe **coordenadas e endereço** em um *bottom sheet*
 - ⏯️ Botão para **iniciar/parar coleta de telemetria**
 - 📱 Interface otimizada para **dispositivos móveis**
 
@@ -62,6 +61,8 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+---
 
 ## 📱 Permissões
 - O app solicita automaticamente:
