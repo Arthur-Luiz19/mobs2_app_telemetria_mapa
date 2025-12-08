@@ -6,12 +6,6 @@ Aplicativo Flutter para exibição de telemetria em tempo real com integração 
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
 
-## 📲 Download do APK
-
-Você pode testar o app diretamente no seu Android:
-
-[👉 Baixar APK pelo Google Drive](https://drive.google.com/drive/folders/1rZxnwxFnokafnzUzewKUnI_7CzV6-N72)
-
 ## 🎯 Funcionalidades
 
 - 📍 **Localização em tempo real** via GPS
