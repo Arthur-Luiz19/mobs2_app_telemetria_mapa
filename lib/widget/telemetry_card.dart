@@ -4,14 +4,10 @@ import 'package:provider/provider.dart';
 import '../providers/telemetry_provider.dart';
 
 class TelemetryCard extends StatelessWidget {
-  final Position? position;
-  final double heading;
   final VoidCallback onLocationPress;
 
   const TelemetryCard({
     super.key,
-    required this.position,
-    required this.heading,
     required this.onLocationPress,
   });
 

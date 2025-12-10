@@ -52,8 +52,6 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
           ),
           TelemetryCard(
-            position: pos,
-            heading: telemetry.heading,
             onLocationPress: () => _goToCurrentLocation(pos, telemetry.heading),
           ),
         ],
